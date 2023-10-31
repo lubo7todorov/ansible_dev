@@ -6,7 +6,7 @@
   tasks:
   - name: install packages
     package:
-      - name:
-          htop
-          tmux
-          neofetch
+      name:
+        - htop
+        - tmux
+        - neofetch
