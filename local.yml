@@ -7,6 +7,12 @@
   - name: install packages
     package:
       name:
+        # process management
         - htop
+        # terminal multiplexer
         - tmux
+        # system information
         - neofetch
+        # fun
+        - cmatrix
+        # podman
